@@ -1,0 +1,9 @@
+.btn-cart{
+    background-color:#000;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 20px;
+}
